@@ -1,7 +1,6 @@
 package assignments;
 //-------------------------------------------------------
 //Assignment 4
-//Written by: Mohammed Al assad, 40252007
 //For COMP 248 Section 2222-R – Fall 2022
 //--------------------------------------------------------
 public class Expense {
